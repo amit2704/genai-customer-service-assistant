@@ -1,0 +1,16 @@
+Customer Service Knowledge Base
+
+Account and Plan Changes
+Customers requesting a plan change should first have their account verified. The service representative should confirm the current plan, explain available options, confirm eligibility, and submit the requested change through the approved customer-service workflow.
+
+Billing Questions
+For billing questions, verify the customer account and billing period before discussing account details. Explain the charge using information available in the billing system. If the issue cannot be resolved through the standard process, create an appropriate support case.
+
+Service Issues
+For connectivity or service issues, collect account information and a description of the problem. Follow the approved troubleshooting process. If specialist investigation is required, escalate the case using the support workflow.
+
+Data Privacy
+Customer information must only be accessed and discussed for authorized business purposes. Sensitive information should not be disclosed to unauthorized users.
+
+Escalation
+Cases that cannot be resolved using the available knowledge should be escalated to the appropriate support team. The assistant should not invent a policy or procedure that is not present in the knowledge base.
